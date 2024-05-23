@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\layout_item_list_broni.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\layout\\item_list_broni.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_custom_button_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\custom_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.hotelbooking.app-merged_res-31:/layout_activity_info.xml.flat",
+        "source": "com.example.hotelbooking.app-main-33:/layout/activity_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_image2.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_text_frame_blue.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\text_frame_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_button_default2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\button_default2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_kurort.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\kurort.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_white_rectangle.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\white_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_button_default.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\button_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_framelogin.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\framelogin.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_image1.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\image1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_shapka.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\shapka.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_custom_edit_text_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\custom_edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\layout_activity_info.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_button_pressed.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_framemain.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\framemain.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_framecard.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\framecard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_kurort_shkinred.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\kurort_shkinred.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\layout_activity_hotels_results.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\layout\\activity_hotels_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_image3.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\image3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_frameregistration.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\frameregistration.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_custom_button_background2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\custom_button_background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_baseline_perm_device_information_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\baseline_perm_device_information_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_kurort2.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\kurort2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.hotelbooking.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.hotelbooking.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\layout_item_list_admin.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\layout\\item_list_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.hotelbooking.app-main-33:\\xml\\data_extraction_rules.xml"
+    }
+]
